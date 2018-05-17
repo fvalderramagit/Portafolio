@@ -1,0 +1,5 @@
+H:\PortafolioFAVP\PortafolioFAVP\Helper\bin\Debug\Helper.dll
+H:\PortafolioFAVP\PortafolioFAVP\Helper\bin\Debug\Helper.pdb
+H:\PortafolioFAVP\PortafolioFAVP\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+H:\PortafolioFAVP\PortafolioFAVP\Helper\obj\Debug\Helper.dll
+H:\PortafolioFAVP\PortafolioFAVP\Helper\obj\Debug\Helper.pdb
